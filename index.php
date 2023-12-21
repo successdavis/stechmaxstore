@@ -1,5 +1,7 @@
 <?php
 
+dd('domain can reach here');
+
 ini_set('serialize_precision', -1);
 
 /**
